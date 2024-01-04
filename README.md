@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/okal-eltocat.jpg?raw=true">
+  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/01.png?raw=true">
   
 ### My personal profile
 ---
@@ -55,7 +55,7 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 <p align = "center">
 <img src="https://github-readme-stats-hulkike.vercel.app/api?username=hulkike&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&hide=stars&line_height=25"/>
 
-<img src="https://github-readme-stats-hulkike.vercel.app/api/top-langs/?username=hulkike&layout=compact&hide=ruby,TSQL,HTML,Hack&hide_title=true&theme=dracula&card_width=250"/> 
+<img src="https://github-readme-stats-hulkike.vercel.app/api/top-langs/?username=hulkike&layout=compact&hide=ruby,TSQL,HTML,Hack&hide_title=true&theme=dracula&card_width=250"/>
 </p>
 
 <p align="center">
