@@ -14,6 +14,14 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 </p>
 
 ---
+# HackPlatzi Projects
+### :trophy: Coding Challenges & Hacking Projects
+Here you can find my hackplatzi repositories and coding challenge solutions:
+
+[![Generic badge](https://img.shields.io/badge/HackPlatzi-Coding%20Challenges-blueviolet.svg?style=flat&logo=github&labelColor=black)](https://github.com/hulkike?tab=repositories&q=hackplatzi)
+[![Generic badge](https://img.shields.io/badge/Platzi-Learning%20Projects-brightgreen.svg?style=flat&logo=study&labelColor=orange)](https://github.com/hulkike?tab=repositories&q=platzi)
+
+---
 # My knowledge
 ### :computer: Main programming languages & development technologies
 

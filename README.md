@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/01.png?raw=true">
+  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/xtocat.jpg?raw=true">
   
 ### My personal profile
 ---
@@ -12,6 +12,14 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 :factory: JAVA Developer FullStack <br>
 :octocat: [GitHub Campus Advisor](https://education.github.com/teachers/advisors#campus_advisors_map)
 </p>
+
+---
+# HackPlatzi Projects
+### :trophy: Coding Challenges & Hacking Projects
+Here you can find my hackplatzi repositories and coding challenge solutions:
+
+[![Generic badge](https://img.shields.io/badge/HackPlatzi-Coding%20Challenges-blueviolet.svg?style=flat&logo=github&labelColor=black)](https://github.com/hulkike?tab=repositories&q=hackplatzi)
+[![Generic badge](https://img.shields.io/badge/Platzi-Learning%20Projects-brightgreen.svg?style=flat&logo=study&labelColor=orange)](https://github.com/hulkike?tab=repositories&q=platzi)
 
 ---
 # My knowledge
